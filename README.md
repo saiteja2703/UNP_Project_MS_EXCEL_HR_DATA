@@ -10,3 +10,5 @@ Years of Service and Attrition: The observation that employees with fewer years 
 Travel Frequency and Attrition: Employees who travel frequently have a higher attrition rate, indicating potential challenges or dissatisfaction related to travel demands. Addressing work-life balance and offering support for frequent travelers could help mitigate this.
 
 Departmental Attrition: The highest attrition rates in the research and development, sales, and HR departments suggest the need for department-specific interventions or improvements to address underlying issues contributing to turnover within each area. This could involve examining factors such as workload, leadership, and organizational culture.
+
+PowerPoint link- https://www.canva.com/design/DAF77HtRnYs/q_9QwY77HvujqYXT58f_tw/edit?utm_content=DAF77HtRnYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
