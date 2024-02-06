@@ -11,3 +11,4 @@ Visualized Key Performance Indicators (KPIs) in a format that provides a quick o
 Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
 PDF LINK: https://drive.google.com/file/d/17zFjGffc6iIHIg9NPG3NPJNBWTvKECa0/view?usp=drivesdk
+EXCEL FILE LINK: https://1drv.ms/x/s!AgcWhuQq7fECkGPXrN2Q917w82JA?e=iV9q0T
